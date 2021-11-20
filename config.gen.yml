@@ -8,8 +8,8 @@
 # ===================================================================
 
 # API Credentials of your telegram application created at https://my.telegram.org/apps | api_key is api_id
-api_key: "ID_HERE"
-api_hash: "HASH_HERE"
+api_key: "10688990"
+api_hash: "447a5389a27d5e2cd935776caafcf248"
 
 # Either debug logging is enabled or not
 debug: "False"
